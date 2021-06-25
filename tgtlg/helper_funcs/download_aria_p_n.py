@@ -22,6 +22,8 @@ from tgtlg import (
     EDIT_SLEEP_TIME_OUT,
     LOGGER,
     MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START,
+    FINISHED_PROGRESS_STR,
+    UN_FINISHED_PROGRESS_STR
 )
 from tgtlg.helper_funcs.create_compressed_archive import (
     create_archive,
